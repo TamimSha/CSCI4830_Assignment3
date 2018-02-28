@@ -99,3 +99,7 @@ $("#gesture_area").mouseup(function(event) {
         $("#gesture_output").val("Mouse Up");
     }
 });
+
+$("#suggestion-button").click(function(){
+    $("#alert").className = "";
+})

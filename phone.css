@@ -4,6 +4,10 @@ button { width: 70px; height: 40px; background: green; color: white; margin: 10p
 /* make all tags with the "cool" class name have blue text */
 .cool { color: blue; }
 
+.hid{
+    display:none;
+}
+
 /* make the button with ID "delete" red */
 delete { background: red; }
 
